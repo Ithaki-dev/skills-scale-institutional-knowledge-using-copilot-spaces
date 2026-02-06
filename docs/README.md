@@ -85,7 +85,7 @@ OctoAcme's project management processes are living documents that improve throug
 If you identify gaps, have clarifications to suggest, or want to propose new content:
 
 1. **Use the issue template**: Navigate to the [Issues tab](../../issues/new/choose) and select "Add Content to Project Management Process Docs"
-2. **Fill out the template** at `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml` which will guide you through:
+2. **Fill out the template** which will guide you through:
    - Selecting which document to update (or proposing a new one)
    - Describing the content or change you're suggesting
    - Explaining the rationale for the update
